@@ -13,8 +13,9 @@ Code Academy course Fullstack developer - March 2018: All tasks with their solut
 - PHP Basics
 - PHP OOP
 - Databases
-- Laravel
+- Javascript
 - Wordpress
+- Laravel
 
 ## Repository content:
 
@@ -30,7 +31,7 @@ OOP Enheritance                   	|[Description](https://github.com) |[Lab](htt
 
 Exams				|Date				|Descriptions																											|Solutions
 --------------------|:-----------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------:
-The Last Army		|20 August 2017		|[Description](https://github.com)			|[Solution](https://github.com/)
+Web shop		|20 August 2021		|[Description](https://github.com)			|[Solution](https://github.com/)
 
 > **Workshop**
 
