@@ -3,7 +3,7 @@
 	</a>
 <p>
 
-# My portfolio [Click here](https://my-portfolio.website)
+# [My portfolio](https://my-portfolio.website)
 ## Course: [Fullstack developer PHP/JS](https://some.link)
 Code Academy course Fullstack developer - March 2018: All tasks with their solutions.
 
