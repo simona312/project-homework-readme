@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://https://www.php.net/manual/en/index.php"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" alt="Softuni logo" width="400" align="center">
+	<a href="https://codeacademy.mk"><img src="https://codeacademy.mk/images/logo-code-academy.png" alt="Code Academy" width="400" align="center">
 	</a>
 <p>
 
